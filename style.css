@@ -37,3 +37,11 @@ input{
     cursor: text;
     width: 200px;
 }
+
+h1{
+    font-color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Comic Sans MS';
+    background-color: black;
+}

@@ -6,4 +6,5 @@ function checkl(){
 
 if (up == 'root' && pass == 'root'){
     alert('Login successful');
+    document.write('Login successful');
 }
