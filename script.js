@@ -1,4 +1,7 @@
 function checkl(event) {
+    var up = undefined;
+    var pass = undefined;
+
     event.preventDefault();
     var up = document.getElementsByName('username')[0].value;
     var pass = document.getElementsByName('password')[0].value;
