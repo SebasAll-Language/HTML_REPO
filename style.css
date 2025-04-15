@@ -13,7 +13,7 @@ button{
     width: 150px;
     font-family: 'Open Sans';
     font-weight: bold;
-    transition: 0.3s;
+    transition: 0.5s;
     border: solid 3px rgb(45, 149, 218);
 
 }
@@ -28,7 +28,7 @@ button:hover {
     color: white;
     font-size: 20px;
     border: solid 2px rgb(255, 26, 26);
-    transition: 0.3s;
+    transition: 0.5s;
     align-items: center;
     text-align: center;
 
@@ -47,6 +47,7 @@ input{
     background-color: black;
     color: aqua;
     font-family: 'Open Sans';
+    transition: 0,5s;
 
 }
 
@@ -55,11 +56,12 @@ input:hover {
     color: white;
     font-size: 25px;
     border: solid 2px rgb(255, 26, 26);
-    transition: 0.3s;
+    transition: 0.5s;
     align-items: center;
     text-align: center;
-
+    transition;
 }
+
 
 input:focus {
     background-color: rgb(0, 0, 0);
@@ -85,7 +87,7 @@ h1 {
     border-radius: 5px;
     border: solid 5px rgb(45, 149, 218);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    transition: 0.3s;
+    transition: 0.5s;
 }
 
 h1:hover {
