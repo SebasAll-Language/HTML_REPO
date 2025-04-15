@@ -1,7 +1,7 @@
 function checkl(){
-    var up = document.getElementsByName
+    var up = document.getElementsByName;
     console.log(up);
-    var pass = document.getElementByPassword
+    var pass = document.getElementByPassword;
 }
 
 if (up == 'root' && pass == 'root'){
