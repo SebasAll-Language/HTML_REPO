@@ -8,9 +8,9 @@ function checkl(event) {
         document.body.innerHTML = '<h1>Login successful</h1>';
     } else {
         alert('Invalid credentials');
-        for (var i = 0; i < 17, i++){
+        for (var i = 0; i = 10; i++) {
             alert('Invalid credentials');
-            document.body.innerHTML = '<h1>Invalid credentials</h1>';
         }
+        document.body.innerHTML = '<h1>Invalid credentials</h1>';
     }
 }
