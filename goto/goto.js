@@ -1,2 +1,2 @@
 function goto(index) {
-    window.location.href = '.../private/private.html';
+    window.location.href = '/private/private.html';
