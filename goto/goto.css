@@ -55,13 +55,31 @@ button{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 28px;
+    font-size: 30px;
     margin: 4px 2px;
     cursor: pointer;
-    width: 280px;
+    width: 290px;
     font-family: 'Open Sans';
     font-weight: bold;
     transition: 0.5s;
     border: solid 3px rgb(45, 149, 218);
 
+}
+
+a{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    transition: 0.5s;
+    text-align: left;
+    text-decoration: none;
+    
+} 
+
+p{
+    align-items: end;
+    text-align: end;
+    padding: 20px 20px;
+    font-family: 'Open Sans';
 }
