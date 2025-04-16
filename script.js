@@ -9,7 +9,7 @@ function checkl(event) {
     if (up === 'root' && pass === 'root') {
         alert('Login successful');
         document.body.innerHTML = '<h1>Login successful</h1>';
-        window.location.href = 'goto.html';
+        window.location.href = '.../goto/goto.html';
     } else {
         alert('Invalid credentials');
         for (var i = 0; i = 10; i++) {
