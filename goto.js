@@ -1,2 +1,2 @@
-function goto(url) {
-  if
+function goto(index) {
+    window.location.href = 'index.html';
